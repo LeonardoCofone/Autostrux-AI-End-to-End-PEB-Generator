@@ -26,26 +26,26 @@ pip install streamlit pandas plotly
 python -m streamlit run app.py
 
 ## Strucutre
-└── 📁competizione
-    └── 📁input
-        ├── BulkStore.json
-        ├── Jebel_Ali_Industrial_Area.json
-        ├── knitting-plant.json
-        ├── RMStore.json
-        ├── RSC-ARC-101-R0_AISC.json
-        ├── S-2447-BANSWARA.json
-    └── 📁output
-        ├── BOQ_Final.csv
-        ├── BulkStore.std
-        ├── Jebel_Ali_Industrial_Area.std
-        ├── knitting-plant.std
-        ├── RMStore.std
-        ├── RSC-ARC-101-R0_AISC.std
-        ├── S-2447-BANSWARA.std
-    ├── app.py
-    ├── Autostrux AI _ PEB Generator.pdf
-    ├── README.md
-    ├── requirements.txt
+└── 📁competizione    
+└── 📁input  
+            ├── BulkStore.json  
+            ├── Jebel_Ali_Industrial_Area.json  
+            ├── knitting-plant.json  
+            ├── RMStore.json  
+            ├── RSC-ARC-101-R0_AISC.json  
+            ├── S-2447-BANSWARA.json  
+    └── 📁output  
+        ├── BOQ_Final.csv  
+        ├── BulkStore.std  
+        ├── Jebel_Ali_Industrial_Area.std  
+        ├── knitting-plant.std  
+        ├── RMStore.std  
+        ├── RSC-ARC-101-R0_AISC.std  
+        ├── S-2447-BANSWARA.std  
+    ├── app.py  
+    ├── Autostrux AI _ PEB Generator.pdf  
+    ├── README.md  
+    ├── requirements.txt  
     └── staad_generator_pro.py
 
 
