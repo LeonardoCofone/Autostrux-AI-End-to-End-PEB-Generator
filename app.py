@@ -6,7 +6,6 @@ import plotly.graph_objects as go
 
 from staad_generator_pro import extract_process_json, get_field, parse_num, run_pipeline, generate_complex_geometry, resolve_dim, resolve_eave, resolve_slope, resolve_bays, resolve_accessories
 
-# --- PAGE CONFIGURATION ---
 st.set_page_config(
     page_title="Autostrux AI | PEB Generator", 
     page_icon="🏗️",

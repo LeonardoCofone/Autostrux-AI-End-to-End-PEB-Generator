@@ -5,7 +5,7 @@ import math
 import datetime
 import pandas as pd
 
-BASE = "."
+BASE = "input"
 OUT = "output"
 
 os.makedirs(OUT, exist_ok=True)
